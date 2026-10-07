@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Fluff Privacy Policy
 
-**Last updated: [DATE]**
+**Last updated: 7 October 2026**
 
 Fluff is a place to slow down, so we've tried to keep this policy as calm and clear as the app itself. It explains what information Fluff uses, why, who helps us look after it, and the choices you have.
 
@@ -70,15 +70,15 @@ We use a small number of trusted service providers. They act on our instructions
 
 | Provider | What they do for Fluff | Data involved |
 |---|---|---|
-| **Supabase** | Account sign-in and our database | Account ID, email, sign-in method, name if shared by Apple, subscription status |
+| **Supabase** | Account sign-in and our database (hosted in Ireland, EU) | Account ID, email, sign-in method, name if shared by Apple, subscription status |
 | **RevenueCat** | Checks and manages subscription status across Apple and Google | Account ID, purchase and subscription records, device and app information |
 | **Cloudflare** (R2 storage) | Stores and delivers meditation audio | Technical information such as IP address, needed to deliver files. No account information |
 | **Apple (iCloud Mail)** | Our email inbox for hello@blankpagedigital.app | Emails you send us |
 
 **Apple and Google** also play a part. When you sign in with Apple or Google, or buy a subscription through their stores, they handle that under their own privacy policies as independent controllers:
 
-- Apple: [apple.com/legal/privacy](https://www.apple.com/legal/privacy/)
-- Google: [policies.google.com/privacy](https://policies.google.com/privacy)
+- Apple: [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
+- Google: [Google Privacy Policy](https://policies.google.com/privacy)
 
 We may also share information if the law requires it, to protect the rights and safety of our users or others, or with a buyer if our business or Fluff is ever sold (in which case this policy would continue to protect your data).
 
@@ -88,8 +88,8 @@ Some of our providers are based in, or use servers in, countries outside the UK,
 
 ## How long we keep your data
 
-- **Account and subscription information:** for as long as you have a Fluff account. When you delete your account, we delete it within [30] days. Copies in our providers' routine backups are removed automatically as those backups roll over, within a further [BACKUP PERIOD] days.
-- **Emails you send us:** for up to [2 years] after our conversation ends, so we can follow up if you get in touch again, unless you ask us to delete them sooner.
+- **Account and subscription information:** for as long as you have a Fluff account. When you delete your account in the app, it's deleted immediately and permanently, and it can't be restored. If you ask us by email instead, we delete it within one month, and normally within a few days. Any copies in our database provider's routine backups are removed automatically within 7 days as those backups roll over.
+- **Emails you send us:** only for as long as we need to answer you and sort out your request. We then delete them, normally within 3 months.
 - **Technical logs:** kept by our providers for a short period for security and reliability, then deleted.
 - **Purchase records** held by Apple and Google are kept by them under their own policies.
 
@@ -109,13 +109,13 @@ Under UK data protection law (the UK GDPR and the Data Protection Act 2018), you
 
 To use any of these rights, email **hello@blankpagedigital.app**. It's free, and we'll respond within one month. We may need to confirm it's really you, usually by asking you to write from the email address linked to your account.
 
-You can delete your account at any time in the app (**Profile → Delete account**). See our [Account Deletion page](delete-account) for details.
+You can delete your account at any time in the app (**Profile → Delete account**). See our [Account Deletion page](https://zora-izi.github.io/fluff-legal/delete-account) for details.
 
 ## Complaints
 
 If you're unhappy with how we've handled your data, please tell us first so we can try to put it right. You also have the right to complain to the UK's data protection regulator, the **Information Commissioner's Office (ICO)**:
 
-- Website: [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/)
+- Website: [ICO complaints](https://ico.org.uk/make-a-complaint/)
 - Phone: 0303 123 1113
 
 ## Children

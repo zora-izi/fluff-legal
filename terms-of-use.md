@@ -4,9 +4,9 @@ title: Terms of Use
 
 # Fluff Terms of Use
 
-**Last updated: [DATE]**
+**Last updated: 7 October 2026**
 
-Welcome to Fluff. These terms explain the agreement between you and us when you use the Fluff app. We've kept them as short and plain as we can. Please read them, along with our [Privacy Policy](privacy-policy), before you start.
+Welcome to Fluff. These terms explain the agreement between you and us when you use the Fluff app. We've kept them as short and plain as we can. Please read them, along with our [Privacy Policy](https://zora-izi.github.io/fluff-legal/privacy-policy), before you start.
 
 By downloading or using Fluff, you agree to these terms. If you don't agree, please don't use the app.
 
@@ -47,7 +47,7 @@ We give you a personal, non-exclusive, non-transferable licence to use Fluff on 
 
 To use Fluff's account features, you sign in with Apple or Google. Please keep access to that sign-in secure, as anything done through your account is treated as done by you. Let us know straight away if you think someone else has used your account.
 
-You can delete your account at any time in the app (**Profile → Delete account**) or by emailing us. See our [Account Deletion page](delete-account) for details.
+You can delete your account at any time in the app (**Profile → Delete account**) or by emailing us. See our [Account Deletion page](https://zora-izi.github.io/fluff-legal/delete-account) for details.
 
 ## Subscriptions
 
@@ -57,7 +57,7 @@ Some of Fluff, including the full meditation library and offline downloads, need
 
 - **Auto-renewal:** your subscription renews automatically at the end of each period, and you'll be charged by Apple or Google, unless you cancel. On the App Store, auto-renewal must be turned off at least 24 hours before the end of the current period. On Google Play, you can cancel at any time before the next renewal date.
 - **Cancelling:** you can cancel in your device's subscription settings:
-  - iPhone: **Settings → [your name] → Subscriptions → Fluff**
+  - iPhone: **Settings → tap your name → Subscriptions → Fluff**
   - Android: **Google Play → profile icon → Payments & subscriptions → Subscriptions → Fluff**
   
   When you cancel, you keep access until the end of the period you've already paid for. **Deleting the app or your Fluff account does not cancel your subscription.**
